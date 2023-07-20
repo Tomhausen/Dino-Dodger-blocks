@@ -14,6 +14,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "player1"
     },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8PAAAAAADwM/MPAAAAAPAzM/8AAAAA8DOz+w8AAAAAP7O7DwAAAPAzs/sPAAAA8BMz/wAAAADwM/MPAAAAAAD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "heart"
+    },
     "anim1": {
         "namespace": "myAnimations",
         "id": "anim1",
