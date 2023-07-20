@@ -46,7 +46,7 @@ function spawn_horizontal () {
     }
 }
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (player_sprite, dino) {
-    game.over(false)
+    game.gameOver(false)
 })
 function make_dino () {
     dino = sprites.create(assets.image`dino`, SpriteKind.Enemy)
